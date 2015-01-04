@@ -1,7 +1,12 @@
-A basic Bootstrap starter generator
+Objective
 ===================================
 
-I've modified some of the basic variables for personal use.
+The following is a concept web and UX design piece for a hypothetical Art&History web site. It features modern web and interactive design techniques to produce a vibrant digital collection of art history, a gallery of paintings, editorial content and more to a broad audience. From concept to prototype, the goal was to experiment with both interactive design and front-end development — involving HTML5, CSS3 and some JavaScript.
 
-Feel free to use them for your own use. This is all from the Yeoman generator Boostrap Edit Variables.
+Scope
+===================================
+Art Direction, Brand identity, Typography, Interactive Design, UX/UI, HTML, CSS
 
+Industry
+===================================
+Arts, Education, Museums, Curation
