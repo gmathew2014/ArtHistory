@@ -1,0 +1,9 @@
+#Defaults
+.DS_Store
+app/bower_components/**
+app/fonts/**
+app/images
+# javascript/**
+node_modules/**
+
+
